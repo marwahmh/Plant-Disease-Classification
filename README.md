@@ -1,7 +1,9 @@
 # Plant-Disease-Classification
 
 This project is done for the Practical Machine Deep Learning Course in the American University in Cairo Fall 2020.
+
 Instructor: Dr. Mohamed Mostafa
+
 Done By: Ahmed Aboutaleb, Ismael Elsharkawi, and Marwah Sulaiman
 
 ## Report
